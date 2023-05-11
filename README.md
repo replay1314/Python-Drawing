@@ -1,3 +1,3 @@
 # Python-Drawing
 一些海龟制图
-image/皮卡丘.png
+![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
